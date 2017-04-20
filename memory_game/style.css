@@ -80,3 +80,17 @@ footer {
 	color: #F15B31;
 	font-weight: 700;
 }
+h3 {
+	background-color: #F15B31;
+	color: white;
+	font-family: "Raleway", sans-serif;
+	letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 20px 20px;
+    border-bottom: 2px solid transparent;
+}
+button {
+	background-color: #00A6B3;
+}
